@@ -1,10 +1,10 @@
-package TicTacToe.Game;
+package ticTacToe.service;
 
-import TicTacToe.Board.Board;
-import TicTacToe.Enums.GameStatus;
-import TicTacToe.Player.Player;
-import TicTacToe.Strategy.DefaultWinStrategy;
-import TicTacToe.Strategy.WinStrategy;
+import ticTacToe.model.Board;
+import ticTacToe.enums.GameStatus;
+import ticTacToe.model.Player;
+import ticTacToe.util.DefaultWinStrategy;
+import ticTacToe.util.WinStrategy;
 
 public class Game {
     private final Board board;

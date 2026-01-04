@@ -1,6 +1,6 @@
-package TicTacToe.Player;
+package ticTacToe.model;
 
-import TicTacToe.Enums.Move;
+import ticTacToe.enums.Move;
 
 public class Player {
     private final String name;

@@ -1,4 +1,4 @@
-package TicTacToe.Enums;
+package ticTacToe.enums;
 
 public enum Move {
     X,

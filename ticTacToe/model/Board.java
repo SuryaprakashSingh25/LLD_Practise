@@ -1,6 +1,6 @@
-package TicTacToe.Board;
+package ticTacToe.model;
 
-import TicTacToe.Enums.Move;
+import ticTacToe.enums.Move;
 
 public class Board {
     private final int size;

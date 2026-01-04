@@ -1,8 +1,8 @@
-package TicTacToe.Strategy;
+package ticTacToe.util;
 
-import TicTacToe.Enums.Move;
+import ticTacToe.enums.Move;
 
-public class DefaultWinStrategy implements WinStrategy{
+public class DefaultWinStrategy implements WinStrategy {
     private final int[] rows;
     private final int[] cols;
     private int diag;

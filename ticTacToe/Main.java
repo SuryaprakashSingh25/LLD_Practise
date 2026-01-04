@@ -1,8 +1,8 @@
-package TicTacToe;
+package ticTacToe;
 
-import TicTacToe.Enums.Move;
-import TicTacToe.Game.Game;
-import TicTacToe.Player.Player;
+import ticTacToe.enums.Move;
+import ticTacToe.service.Game;
+import ticTacToe.model.Player;
 
 import java.util.Scanner;
 
